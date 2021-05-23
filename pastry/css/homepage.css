@@ -1,0 +1,225 @@
+body
+  {
+    background-color: pink;
+  }
+	.td1
+	{
+		background-color: hsla(0, 100%, 54%, 0.1);
+	}
+
+	.navbar 
+	{
+  	overflow: hidden;
+	}
+
+	.navbar a 
+	{
+		float: left;
+  	font-size: 16px;
+  	color: black;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+	}
+
+	.dropdown 
+	{
+  	float: left;
+  	overflow: hidden;
+	}
+
+	.dropdown .dropbtn 
+	{
+  	font-size: 16px;  
+  	border: none;
+  	outline: none;
+  	color: black;
+  	padding: 14px 16px;
+  	background-color: inherit;
+  	font-family: inherit;
+  	margin: 0;
+	}
+
+	.navbar a:hover, .dropdown:hover .dropbtn 
+	{
+  	background-color: red;
+	}
+
+	.dropdown-content 
+	{
+  	display: none;
+  	position: absolute;
+  	background-color: #f9f9f9;
+  	min-width: 160px;
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  	z-index: 1;
+	}
+
+	.dropdown-content a 
+	{
+  	float: none;
+  	color: black;
+  	padding: 12px 16px;
+  	text-decoration: none;
+  	display: block;
+  	text-align: left;
+	}
+
+	.dropdown-content a:hover 
+	{
+  	background-color: #ddd;
+	}
+
+	.dropdown:hover .dropdown-content 
+	{
+  	display: block;
+	}
+
+  .navbar2
+  {
+  	overflow: hidden;
+  }
+
+  .navbar2 a
+  {
+  	float: right;
+  	font-size: 15px;
+  	color: black;
+    padding-right: 10px;
+  	text-decoration: none;
+  }
+
+  .navbar2 a:hover
+  {
+  	background-color: red;
+  }
+
+  .header
+  {
+    font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-size: 60px;
+  }
+
+  .div1 
+  {
+    height: 50%;
+    width: 50%;
+    float: left;
+  }
+
+  .div2 
+  {
+    height: 50%;
+    width: 50%;
+    float: right;
+  }
+
+  p
+  {
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: Times New Roman, Serif;
+  }
+
+  .p1
+  {
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: Copperplate, fantasy;
+  }
+
+  a.logout
+  {
+    float: right; 
+  }
+
+  h4
+  {
+    padding-left: 10px;
+    font-size: 25px;
+    font-family: Courier New, Monospace;
+  }
+
+  h5
+  {
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: Courier New, Monospace;
+  }
+
+  .tdheader
+  {
+    background-color: hsla(0, 43%, 51%, 0.3);
+  }
+
+  table
+  {
+    border: 1px solid;
+  }
+
+  .gif1
+  {
+    width: 170px;
+    height: 250px;
+    padding-right: 10px;
+    float: left;
+  }
+
+  .jpeg1
+  {
+    width: 170px;
+    height: 250px;
+    padding-left: 10px;
+    float: right;
+  }
+
+  .i1
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .i2
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-right: 20px;
+  }
+
+  .i3
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-right: 20px;
+  }
+
+  .i4
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .i5
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-right: 20px;
+  }
+
+  .i6
+  {
+    width: 150px;
+    height: 110px;
+    float: left;
+    padding-right: 20px;
+  }

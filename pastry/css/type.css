@@ -1,0 +1,108 @@
+	body
+	{
+		background-color: skyblue;
+	}
+
+	.img1
+	{
+		width: 180px;
+		height: 325px;
+	}
+
+	.img2
+	{
+		width: 180px;
+		height: 395px;
+	}
+
+	.img3
+	{
+		width: 180px;
+		height: 325px;
+	}
+
+	.img4
+	{
+		width: 180px;
+		height: 325px;
+	}
+
+	.img5
+	{
+		width: 180px;
+		height: 350px;
+	}
+
+	.img6
+	{
+		width: 180px;
+		height: 230px;
+	}
+
+	.td0
+	{
+		background-color: hsla(89, 43%, 51%, 0.3);
+	}
+
+	.td1
+	{
+		text-align: center;
+		font-size: 40px;
+		background-color: hsla(50, 90%, 20%, 0.3);	
+	}
+
+	.td2
+	{
+		font-size: 20px;
+		text-align: center;
+		background-color: rgb(50, 20, 45, 0.3);
+	}
+
+	.td3
+	{
+		font-size: 20px;
+		padding-left: 10px;
+		background-color: rgb(90, 35, 20, 0.3);
+	}
+
+	.td4
+	{
+		font-size: 20px;
+		background-color: rgb(90, 35, 20, 0.3);
+	}
+
+	.div1
+	{
+		overflow: hidden;
+	}
+
+	.div1 a
+	{
+		float: left;
+  		font-size: 16px;
+  		color: black;
+  		padding: 14px 16px;
+  		text-decoration: none;
+	}
+
+	.div1 a:hover
+	{
+		background-color: red;
+	}
+
+	p
+	{
+		font-size: 20px;
+		padding-left: 10px;
+	}
+
+	li
+	{
+		font-size: 20px;
+		padding-left: 10px;
+	}
+
+	table
+	{
+		border: 1px solid;
+	}
